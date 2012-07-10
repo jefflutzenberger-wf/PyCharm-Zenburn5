@@ -1,0 +1,5 @@
+1. Put zenburn5.xml in ~/Library/Preferences/PyCharm20/colors
+2. Restart PyCharm
+3. Go to PyCharm | Preferences | Editor | Color & Fonts
+4. Select zenburn5
+
